@@ -1,0 +1,11 @@
+name: profile-morpheus
+title: Morpheus Example Profile
+maintainer: Martez Reed
+copyright: Martez Reed
+copyright_email: martez.reed@greenreedtech.com
+license: Apache-2.0
+summary: Demonstrates the use of an InSpec Compliance Profile for Morpheus
+version: 1.0.0
+depends:
+- name: inspec-morpheus
+  path: ../../
